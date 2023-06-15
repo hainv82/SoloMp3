@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_height="wrap_content"
+    android:layout_width="wrap_content"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:orientation="horizontal">
+        <TextView
+            android:id="@+id/info_text1"
+            android:layout_width="wrap_content"
+            android:text="HaiNguyen _ 51702099"
+            android:layout_gravity="center"
+            android:layout_height="wrap_content" />
+
+<!--        <ImageView-->
+<!--            android:layout_width="50dp"-->
+<!--            android:layout_height="50dp"-->
+<!--            android:layout_gravity="right"-->
+<!--            android:foregroundGravity="right"-->
+<!--            android:src="@drawable/hai_pro" />-->
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:orientation="horizontal">
+        <TextView
+            android:id="@+id/info_text2"
+            android:layout_width="wrap_content"
+            android:text="VanCuong _ 51603039"
+            android:layout_gravity="center"
+            android:layout_height="wrap_content" />
+
+<!--        <ImageView-->
+<!--            android:layout_width="50dp"-->
+<!--            android:layout_height="50dp"-->
+<!--            android:layout_gravity="right"-->
+<!--            android:foregroundGravity="right"-->
+<!--            android:src="@drawable/cuong" />-->
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:orientation="horizontal">
+        <TextView
+            android:id="@+id/info_text3"
+            android:layout_width="wrap_content"
+            android:text="ThanhTrieu _ 51800942"
+            android:layout_gravity="center"
+            android:layout_height="wrap_content" />
+
+<!--        <ImageView-->
+<!--            android:layout_width="50dp"-->
+<!--            android:layout_height="50dp"-->
+<!--            android:layout_gravity="right"-->
+<!--            android:foregroundGravity="right"-->
+<!--            android:src="@drawable/trieu" />-->
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:orientation="horizontal">
+        <TextView
+            android:id="@+id/info_text4"
+            android:layout_width="wrap_content"
+            android:text="VietTrung _ 51800945"
+            android:layout_gravity="center"
+            android:layout_height="wrap_content" />
+
+<!--        <ImageView-->
+<!--            android:layout_width="50dp"-->
+<!--            android:layout_height="50dp"-->
+<!--            android:layout_gravity="right"-->
+<!--            android:foregroundGravity="right"-->
+<!--            android:src="@drawable/trung" />-->
+
+    </LinearLayout>
+
+</LinearLayout>

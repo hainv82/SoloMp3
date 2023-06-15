@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">SoloMP3</string>
+
+    <string name="title">SoloMP3</string>
+    <string name="theme_color">Theme Color</string>
+    <string name="log">Log In</string>
+    <string name="sleep_timer">Sleep Timer</string>
+    <string name="rate_app">Rate This App</string>
+    <string name="about">About</string>
+    <string name="search">Search</string>
+    <string name="favorites">Favorites</string>
+    <string name="about_text">Ứng dụng nghe nhạc SoloMp3
+    </string>
+
+    <string-array name="time_level">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+    </string-array>
+
+    <string name="ok">OK</string>
+    <string name="start_time">0.00</string>
+    <string name="final_time">0.00</string>
+    <string name="search_hint">Song Name</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="delete">Delete</string>
+    <string name="delete_text"> Are you sure you want to delete</string>
+    <string name="play_next">Play Next</string>
+</resources>
